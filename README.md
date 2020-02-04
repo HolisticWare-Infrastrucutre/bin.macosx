@@ -1,2 +1,3 @@
 # bin
-binaries used (nuget and custom)
+
+MacOSX binaries
