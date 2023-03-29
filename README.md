@@ -6,6 +6,8 @@ binaries for MacOSX (frequently used)
 
 ## Procyon
 
+*   https://github.com/ststeiger/procyon
+
 
 ### Luyten
 
