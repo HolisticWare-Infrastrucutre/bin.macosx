@@ -28,3 +28,7 @@ binaries for MacOSX (frequently used)
         ```
         java -jar ClassyShark.jar
         ```
+
+## Terminals
+
+*   https://github.com/Eugeny/tabby
