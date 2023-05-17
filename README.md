@@ -31,4 +31,13 @@ binaries for MacOSX (frequently used)
 
 ## Terminals
 
+### Tabby
+
 *   https://github.com/Eugeny/tabby
+
+## MSBuild Binary and Structured Log Viewer
+
+*   https://msbuildlog.com/
+
+    *   https://github.com/KirillOsenkov/MSBuildStructuredLog/releases/download/v2.1.820/StructuredLogViewer-x64.zip
+
