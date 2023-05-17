@@ -19,7 +19,7 @@
 x64/
 x86/
 bld/
-[Bb]in/
+#[Bb]in/
 [Oo]bj/
 
 # Visual Studio 2015 cache/options directory
@@ -61,7 +61,7 @@ artifacts/
 *.tlh
 *.tmp
 *.tmp_proj
-*.log
+#*.log
 *.vspscc
 *.vssscc
 .builds
@@ -377,7 +377,7 @@ docs/workspace/sharpen/**
 *.pydevproject
 .metadata
 .gradle
-bin/
+#bin/
 tmp/
 *.tmp
 *.bak
