@@ -4,3 +4,7 @@ installers/mono-framework/nightly/MonoFramework-MDK-macos10.xamarin.universal.pk
 installers/mono-framework/preview/MonoFramework-MDK-6.12.0.206.macos10.xamarin.universal.pkg filter=lfs diff=lfs merge=lfs -text
 installers/mono-framework/preview/MonoFramework-MDK-macos10.xamarin.universal.pkg filter=lfs diff=lfs merge=lfs -text
 installers/mono-framework/stable/MonoFramework-MDK-6.12.0.206.macos10.xamarin.universal.pkg filter=lfs diff=lfs merge=lfs -text
+installers/visual-studio/VisualStudioForMacInstaller.dmg filter=lfs diff=lfs merge=lfs -text
+speedscope-1.20.0.zip filter=lfs diff=lfs merge=lfs -text
+Luyten/luyten-OSX-0.5.4.zip filter=lfs diff=lfs merge=lfs -text
+cs-script/samples/Precompilers/AdvancedSamples/AdvancedSamples.zip filter=lfs diff=lfs merge=lfs -text
