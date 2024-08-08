@@ -2,6 +2,20 @@
 
 binaries for MacOSX (frequently used)
 
+## .NET `dotnet` tools
+
+*   LINQ pad
+
+    *   https://www.linqpad.net/
+
+*   NetPad
+
+    *   https://github.com/tareqimbasher/NetPad
+
+    ```bash
+    xattr -cr $HOME/bin/Netpad/NetPad.app
+    ```
+    
 ## Kwumsy P2 PRO 3 Screen
 
 *   https://kwumsy.com/hr/products/kwumsy-p2-pro-tri-screen
